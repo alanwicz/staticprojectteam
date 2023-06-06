@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+body{
+    display:flex;
+    flex-direction:column;
+}
+
+
+
+#logo{
+    max-width:80%;
+    align-self:center;
+    margin-top:70px;
+}
+
+#redes-texto{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+#redes-texto img{
+    width:8%;
+    padding-bottom: 5px;
+    margin-right: 5px;
+
+}
